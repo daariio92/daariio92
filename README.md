@@ -1,6 +1,7 @@
 # 💫 About Me:
 I´m currently studying Software Engineering at the University of Oviedo.
 
+My university github account is: https://github.com/uo294401
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daariio92_) 
