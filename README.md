@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi there, I am Darío Cristóbal González 👋
+
+## 💫 About Me:
+
 I’m a final-year Software Engineering student passionate about cybersecurity and artificial intelligence. I love exploring how technology can solve real-world problems and create smarter, safer systems.
 
 💻 I enjoy experimenting with new tools, learning about security practices, and building AI-driven applications.
