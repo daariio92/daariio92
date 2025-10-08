@@ -6,7 +6,7 @@ My university github account is: https://github.com/uo294401
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daariio92_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dario-cristobal-gonzalez-559014255) 
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -33,6 +33,6 @@ My university github account is: https://github.com/uo294401
 </div>
 
 
-# 📊 GitHub Stats: 
+## 📊 GitHub Stats: 
 
 ![](https://github-readme-stats.vercel.app/api?username=daariio92&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
