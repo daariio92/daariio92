@@ -1,5 +1,9 @@
 # 💫 About Me:
-I´m currently studying Software Engineering at the University of Oviedo.
+I’m a final-year Software Engineering student passionate about cybersecurity and artificial intelligence. I love exploring how technology can solve real-world problems and create smarter, safer systems.
+
+💻 I enjoy experimenting with new tools, learning about security practices, and building AI-driven applications.
+🌱 Currently learning more about ethical hacking and machine learning.
+🧠 Interested in: cybersecurity, AI, automation, and digital forensics.
 
 My university github account is: https://github.com/uo294401
 
