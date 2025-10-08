@@ -35,4 +35,4 @@ My university github account is: https://github.com/uo294401
 
 ## 📊 GitHub Stats: 
 
-![](https://github-readme-stats.vercel.app/api?username=daariio92&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=daariio92&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
